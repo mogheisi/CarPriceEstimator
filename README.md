@@ -6,7 +6,7 @@ This Django project uses car data to estimate the price of the car you want by u
 
 To run project in development mode; Just use steps below:
 
-1. Install python2, pip, virtualenv in your system.
+1. Install python, pip, virtualenv in your system.
 2. Clone the project https://github.com/Shntia/CarPriceEstimator.git
 3. Make development environment ready using commands below;
 ```sh
