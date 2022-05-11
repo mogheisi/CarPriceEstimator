@@ -14,6 +14,7 @@ To run project in development mode; Just use steps below:
   python3 -m venv env  # Create virtualenv named env
   source build/bin/activate
   pip install -r requirements.txt
+  python manage.py makemigrations
   python manage.py migrate  # Create database tables
    ```
 4. Run project using python manage.py runserver
