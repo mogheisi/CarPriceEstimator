@@ -42,4 +42,4 @@ python manage.py migrate # Create Database Tables
 
 
 ## TODO
-- [] Build a Front-End For This API
+- [ ] Build a Front-End For This API
